@@ -1,35 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Consolve
 
-## Getting Started
+### About the Project
 
-First, run the development server:
+한양대학교 ERICA 교내 창업동아리 팀 'Consolv'
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+콘텐츠 자격 증명 플랫폼 (해싱과 암호화 기술을 활용하여 콘텐츠 제작자를 보호)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+역할: 기획자
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 개발 동기
+기존의 문제점
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- 모든 영상 플랫폼 모니터링이 어려움
+- 자신의 콘텐츠에 대한 저작권 증명이 어려움
+- 다양한 영상 플랫폼이 존재하여 이를 관리하기 어려움
 
-## Learn More
+개선점(장점)
 
-To learn more about Next.js, take a look at the following resources:
+- 자사의 플랫폼을 통해 다양한 영상 플랫폼에 자동으로 업로드 · 관리하여 사용자의 편의성 강조
+- 불법적으로 편집된 영상을 잡기 위한 모니터링 시간 단축
+- 저작권 진흥원의 인증서보다 더 효과적인 저작권 증명 가능
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 기술 스택
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">    
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# client
+### 결과물(웹)
+
